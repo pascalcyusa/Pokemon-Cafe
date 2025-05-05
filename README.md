@@ -1,8 +1,8 @@
-# 🥞🤖 Pancake Robot Transportation Using a iRobot Create 3 Robot
+# 🥞🤖 Pancake Robot Transportation Using a iRobot Create 3
 
 ## 📝 Overview
 
-This Python script controls an iRobot Create 3 robot, acting as a transporter 🚚 within an automated pancake cooking system. Its primary job is to fetch pancake orders from a central system (using Airtable ☁️), navigate between different processing stations (🍳 Cooking, 🍦 Toppings, 🏁 Pickup) following a line on the floor 〰️, and communicate its status and the order's progress back to Airtable.
+This Python script controls an iRobot Create 3, acting as a transporter 🚚 within an automated pancake cooking system. Its primary job is to fetch pancake orders from a central system (using Airtable ☁️), navigate between different processing stations (🍳 Cooking, 🍦 Toppings, 🏁 Pickup) following a line on the floor 〰️, and communicate its status and the order's progress back to Airtable.
 
 Think of this robot as the "waiter" or "delivery driver" 🤖 in your pancake factory. It picks up an order, takes the pancake base to the required cooking and topping stations in the correct sequence, and finally delivers it to the pickup point.
 

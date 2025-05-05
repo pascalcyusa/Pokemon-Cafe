@@ -1,4 +1,4 @@
-# 🥞🤖 Pancake Robot Transportation Node (iCreate 3)
+# 🥞🤖 Pancake Robot Transportation Using a iRobot Create 3 Robot
 
 ## 📝 Overview
 
